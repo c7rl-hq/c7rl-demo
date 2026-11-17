@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "task": "Add password reset",
+  "approvedBy": "eng-lead",
+  "allowed": ["src/auth/**", "tests/auth/**"],
+  "protected": ["src/payments/**", "infra/**"]
+}
